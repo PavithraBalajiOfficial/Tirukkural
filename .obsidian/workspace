@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "86f7c63a21f66c08",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa92615d1e56d86a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1.1.1 அதிகாரம் 1 -  கடவுள் வாழ்த்து.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "410b435599484171",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fe9dd8e18866cbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3740f12faafa12f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6a17d7bf4274335a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f256c9debc6af3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e84abaa312c97dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7bda4ed20f09719",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1.1.1 அதிகாரம் 1 -  கடவுள் வாழ்த்து.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "aa92615d1e56d86a",
+  "lastOpenFiles": [
+    "1.1.1 அதிகாரம் 1 -  கடவுள் வாழ்த்து.md",
+    "dictionary/தாள்சேர்ந்தார்க்.md",
+    "dictionary/ஆய.md",
+    "1.1 - பாயிரவியல்.md",
+    "1 - அறத்துப்பால்.md",
+    "dictionary/நற்றாள்.md",
+    "0 - Overview.md"
+  ]
+}
